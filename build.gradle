@@ -3,7 +3,7 @@ plugins {
     id 'com.github.johnrengelman.shadow' version '5.2.0'
 }
 
-mainClassName = 'me.toadless.Krisp.main'
+mainClassName = 'me.toadless.Krisp.Main'
 
 version '1.0'
 def jdaVersion = '4.2.0_224'
